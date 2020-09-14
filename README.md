@@ -24,27 +24,29 @@
 
 > * Scikit-Learn / Machine Learning Engineering
 > * Natural Language Processing / Spacy
+> * Visualizations / Plotly / MatPlotLib
 > * AWS Certified Cloud Practitioner
 > * Python Programming Language
 > * AWS Elastic Beanstalk / Heroku
 > * Pipenv / Virtual Environments
 > * Tensorflow Developer / Keras
-> * Plotly / Seaborn / MatPlotLib
-> * SQL / PostgreSQL / NoSQL
+> * SQL / PostgreSQL / NoSQL 
 > * Amazon RDS / TablePlus
 > * Command Line Terminal
 > * Docker Containerization
+> * DataRobot AutoML
 > * Flask / FastAPI
 > * Github Workflow
 > * Pandas & Numpy
 > * Big Data Analytics
 > * Tableau / Power BI
+> * JavaScript / HTML / CSS
 > * Dash Core Components
 > * Django Web Development
+> * Wordpress Web Development
 > * Extract Transform Load (ETL)
 > * Data Lakes / Data Warehouses
 > * Figma Designing & Prototyping
-> * Microsoft Office & Google Cloud Suite
 > * Software Development Life Cycle (SDLC)
  
  
@@ -90,7 +92,7 @@
 *****
 *****
 
-### Data Science Software Engineering, August 2019 – July 2020
+### Data Science Software Engineering, August 2019 – August 2020
 #### Lambda School, Remote, San Francisco, CA
 > ●	**Data Engineering** — Completed a deep dive into Data Engineering, working with databases, back-end API's, big data, productization, and continuous integration & > deployment.
 > 
@@ -113,6 +115,8 @@
 *****
 *****
 
+> •	[DataRobot 10x Data Science AutoML](https://ryan.zernach.com/data-robot-10x-data-science-academy-certification-guide/), September 2020
+> 
 > •	[TensorFlow Developer](https://ryan.zernach.com/tensorflow-developer-certification-study-guide/), July 2020
 > 
 > •	[AWS Cloud Practitioner](https://ryan.zernach.com/aws-certified-cloud-practitioner-study-guide/), June 2020
