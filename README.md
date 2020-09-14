@@ -123,8 +123,14 @@
 *****
 *****
 
-### [instaSod.com](https://instasod.com), [CustomizedChristmasLights.com](https://customizedchristmaslights.com)
-#### Small Business Owner (Self Employed), October 2015 – January 2019, 3 yrs 4 mos
+### Vanderbilt University, Teaching Assistant: Data Visualizations
+##### Part-Time, Remote, September 2020 – Present
+
+### Trilogy Education, Data Science Tutor & Grader
+##### Part-Time, Remote, August 2020 – Present
+
+### instaSod.com, CustomizedChristmasLights.com, Small Business Owner (Self Employed)
+##### Full-Time, October 2015 – January 2019, 3 yrs 4 mos
 * **Data Management** — automation, invoicing, client management, Google Analytics
 * **Professional Sales** — Generated $450k+ gross sales over the course of three years
 * **Designer** — websites, systems, processes, graphics, digital landscapes, sales proposals
