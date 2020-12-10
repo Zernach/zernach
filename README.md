@@ -113,8 +113,6 @@
 *****
 *****
 
-DataRobot 10x Data Science AutoML, September 2020
-
 * [DataRobot 10x Data Science AutoML](https://ryan.zernach.com/data-robot-10x-data-science-academy-certification-guide/), September-October 2020
 * [TensorFlow Developer](https://ryan.zernach.com/tensorflow-developer-certification-study-guide/), July 2020 
 * [AWS Cloud Practitioner](https://ryan.zernach.com/aws-certified-cloud-practitioner-study-guide/), June 2020
