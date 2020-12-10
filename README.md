@@ -124,11 +124,11 @@
 *****
 
 
-### ● Trilogy Education
+### ● [Trilogy Education](https://linkedin.com/in/zernach)
 Data Science Tutor for University Students, Remote, September 2020 - Present
 
 
-### ● Vanderbilt University
+### ● [Vanderbilt University](https://linkedin.com/in/zernach)
 Teaching Assistant: Data Visualizations, Remote, September 2020 – Present
 
 
