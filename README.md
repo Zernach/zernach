@@ -1,12 +1,12 @@
-![Ryan Zernach Logo](https://ryan.zernach.com/wp-content/uploads/2019/10/project_20190907_181208-e1583159691592.png)
+![Alt text](https://ryan.zernach.com/wp-content/uploads/2019/10/project_20190907_181208-e1583159691592.png)
 
 *****
 *****
 
 # 👤 Ryan Zernach
 # ✉️ Ryan@Zernach.com
-# 🤖 Data Science Software Engineer
-# 🇺🇸 Remote, Jasper, Georgia, United States
+# 🤖 Machine Learning Engineer
+# 🇺🇸 Remote, Miami Beach, Florida, United States
 
 [<img src="https://ryan.zernach.com/wp-content/uploads/2020/04/Ryan_Zernach_com_Button.png" alt="alt text" width="260" height="79">](https://ryan.zernach.com)
 [<img src="https://ryan.zernach.com/wp-content/uploads/2020/04/Ryan_Zernach_Linkedin_Profile.png" alt="alt text" width="260" height="79">](https://linkedin.com/in/zernach)
@@ -24,29 +24,27 @@
 
 > * Scikit-Learn / Machine Learning Engineering
 > * Natural Language Processing / Spacy
-> * Visualizations / Plotly / MatPlotLib
 > * AWS Certified Cloud Practitioner
 > * Python Programming Language
 > * AWS Elastic Beanstalk / Heroku
 > * Pipenv / Virtual Environments
 > * Tensorflow Developer / Keras
-> * SQL / PostgreSQL / NoSQL 
+> * Plotly / Seaborn / MatPlotLib
+> * SQL / PostgreSQL / NoSQL
 > * Amazon RDS / TablePlus
 > * Command Line Terminal
 > * Docker Containerization
-> * DataRobot AutoML
 > * Flask / FastAPI
 > * Github Workflow
 > * Pandas & Numpy
 > * Big Data Analytics
 > * Tableau / Power BI
-> * JavaScript / HTML / CSS
 > * Dash Core Components
 > * Django Web Development
-> * Wordpress Web Development
 > * Extract Transform Load (ETL)
 > * Data Lakes / Data Warehouses
 > * Figma Designing & Prototyping
+> * Microsoft Office & Google Cloud Suite
 > * Software Development Life Cycle (SDLC)
  
  
@@ -92,7 +90,7 @@
 *****
 *****
 
-### Data Science Software Engineering, August 2019 – August 2020
+### Data Science Software Engineering, August 2019 – July 2020
 #### Lambda School, Remote, San Francisco, CA
 > ●	**Data Engineering** — Completed a deep dive into Data Engineering, working with databases, back-end API's, big data, productization, and continuous integration & > deployment.
 > 
@@ -115,11 +113,11 @@
 *****
 *****
 
-> •	[DataRobot 10x Data Science AutoML](https://ryan.zernach.com/data-robot-10x-data-science-academy-certification-guide/), September 2020
-> 
-> •	[TensorFlow Developer](https://ryan.zernach.com/tensorflow-developer-certification-study-guide/), July 2020
-> 
-> •	[AWS Cloud Practitioner](https://ryan.zernach.com/aws-certified-cloud-practitioner-study-guide/), June 2020
+DataRobot 10x Data Science AutoML, September 2020
+
+* [DataRobot 10x Data Science AutoML](https://ryan.zernach.com/data-robot-10x-data-science-academy-certification-guide/), September-October 2020
+* [TensorFlow Developer](https://ryan.zernach.com/tensorflow-developer-certification-study-guide/), July 2020 
+* [AWS Cloud Practitioner](https://ryan.zernach.com/aws-certified-cloud-practitioner-study-guide/), June 2020
 
 *****
 *****
@@ -127,14 +125,8 @@
 *****
 *****
 
-### Vanderbilt University, Teaching Assistant: Data Visualizations
-##### Part-Time, Remote, September 2020 – Present
-
-### Trilogy Education, Data Science Tutor & Grader
-##### Part-Time, Remote, August 2020 – Present
-
-### instaSod.com, CustomizedChristmasLights.com, Small Business Owner (Self Employed)
-##### Full-Time, October 2015 – January 2019, 3 yrs 4 mos
+### [instaSod.com](https://instasod.com), [CustomizedChristmasLights.com](https://customizedchristmaslights.com)
+#### Small Business Owner (Self Employed), October 2015 – January 2019, 3 yrs 4 mos
 * **Data Management** — automation, invoicing, client management, Google Analytics
 * **Professional Sales** — Generated $450k+ gross sales over the course of three years
 * **Designer** — websites, systems, processes, graphics, digital landscapes, sales proposals
