@@ -124,15 +124,15 @@
 *****
 
 
-### Trilogy Education
+### ● Trilogy Education
 #### Data Science Tutor for University Students, Remote, September 2020 - Present
 
 
-### Vanderbilt University
+### ● Vanderbilt University
 #### Teaching Assistant: Data Visualizations, Remote, September 2020 – Present
 
 
-### [instaSod.com](https://instasod.com), [CustomizedChristmasLights.com](https://customizedchristmaslights.com)
+### ● [instaSod.com](https://instasod.com), [CustomizedChristmasLights.com](https://customizedchristmaslights.com)
 #### Small Business Owner (Self Employed), October 2015 – January 2019, 3 yrs 4 mos
 * **Data Management** — automation, invoicing, client management, Google Analytics
 * **Professional Sales** — Generated $450k+ gross sales over the course of three years
