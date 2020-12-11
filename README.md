@@ -124,7 +124,7 @@
 *****
 
 
-### ● [Trilogy Education](https://linkedin.com/in/zernach)
+### ● [Trilogy Education](https://ryan.zernach.com/tutor/)
 Data Science Tutor for University Students, Remote, September 2020 - Present
 
 
