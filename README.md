@@ -10,7 +10,7 @@
 
 > [<img src="https://ryan.zernach.com/wp-content/uploads/2020/04/Ryan_Zernach_com_Button.png" alt="alt text" width="260" height="79">](https://ryan.zernach.com)
 > [<img src="https://ryan.zernach.com/wp-content/uploads/2020/04/Ryan_Zernach_Linkedin_Profile.png" alt="alt text" width="260" height="79">](https://linkedin.com/in/zernach)
-
+> 
 > [<img src="https://ryan.zernach.com/wp-content/uploads/2020/04/Ryan_Zernach_Github_Account.png" alt="alt text" width="260" height="79">](https://github.com/zernach)
 > [<img src="https://ryan.zernach.com/wp-content/uploads/2020/04/Ryan_Zernach_Official_Resume.png" alt="alt text" width="260" height="79">](https://ryan.zernach.com/wp-content/uploads/Ryan_Zernach_Resume_July_2020.pdf)
 
@@ -114,9 +114,9 @@
 *****
 *****
 
-* [DataRobot 10x Data Science AutoML](https://ryan.zernach.com/data-robot-10x-data-science-academy-certification-guide/), September-October 2020
-* [TensorFlow Developer](https://ryan.zernach.com/tensorflow-developer-certification-study-guide/), July 2020 
-* [AWS Cloud Practitioner](https://ryan.zernach.com/aws-certified-cloud-practitioner-study-guide/), June 2020
+> * [DataRobot 10x Data Science AutoML](https://ryan.zernach.com/data-robot-10x-data-science-academy-certification-guide/), September-October 2020
+> * [TensorFlow Developer](https://ryan.zernach.com/tensorflow-developer-certification-study-guide/), July 2020 
+> * [AWS Cloud Practitioner](https://ryan.zernach.com/aws-certified-cloud-practitioner-study-guide/), June 2020
 
 *****
 *****
@@ -125,21 +125,21 @@
 *****
 
 
-### ● [Trilogy Education](https://ryan.zernach.com/tutor/)
-Data Science Tutor for University Students, Remote, September 2020 - Present
-
-
-### ● [Vanderbilt University](https://linkedin.com/in/zernach)
-Teaching Assistant: Data Visualizations, Remote, September 2020 – Present
-
-
-### ● [instaSod.com](https://instasod.com), [CustomizedChristmasLights.com](https://customizedchristmaslights.com)
-Small Business Owner (Self Employed), October 2015 – January 2019, 3 yrs 4 mos
-* **Data Management** — automation, invoicing, client management, Google Analytics
-* **Professional Sales** — Generated $450k+ gross sales over the course of three years
-* **Designer** — websites, systems, processes, graphics, digital landscapes, sales proposals
-* **Lessons Learned** — the experience of managing my own businesses has shaped my mindset:
- 
+> ### ● [Trilogy Education](https://ryan.zernach.com/tutor/)
+> Data Science Tutor for University Students, Remote, September 2020 - Present
+> 
+> 
+> ### ● [Vanderbilt University](https://linkedin.com/in/zernach)
+> Teaching Assistant: Data Visualizations, Remote, September 2020 – Present
+> 
+> 
+> ### ● [instaSod.com](https://instasod.com), [CustomizedChristmasLights.com](https://customizedchristmaslights.com)
+> Small Business Owner (Self Employed), October 2015 – January 2019, 3 yrs 4 mos
+> * **Data Management** — automation, invoicing, client management, Google Analytics
+> * **Professional Sales** — Generated $450k+ gross sales over the course of three years
+> * **Designer** — websites, systems, processes, graphics, digital landscapes, sales proposals
+> * **Lessons Learned** — the experience of managing my own businesses has shaped my mindset:
+> 
 > * Customer/User/Client Centered Mindset
 > * Ability to Ask the Right Questions
 > * Desire to Never Stop Learning
