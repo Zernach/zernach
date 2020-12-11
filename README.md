@@ -31,6 +31,7 @@
 > * Tensorflow Developer / Keras
 > * Plotly / Seaborn / MatPlotLib
 > * SQL / PostgreSQL / NoSQL
+> * Non-Relational MongoDB
 > * Amazon RDS / TablePlus
 > * Command Line Terminal
 > * Docker Containerization
