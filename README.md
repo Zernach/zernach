@@ -20,8 +20,8 @@
 *****
 *****
 
-### Quickly Learns New Tools & Techniques
-
+> ### Quickly Learns New Tools & Techniques
+> 
 > * Scikit-Learn / Machine Learning Engineering
 > * Natural Language Processing / Spacy
 > * AWS Certified Cloud Practitioner
@@ -91,8 +91,8 @@
 *****
 *****
 
-### Data Science Software Engineering, August 2019 – July 2020
-#### Lambda School, Remote, San Francisco, CA
+> ### Data Science Software Engineering, August 2019 – July 2020
+> #### Lambda School, Remote, San Francisco, CA
 > ●	**Data Engineering** — Completed a deep dive into Data Engineering, working with databases, back-end API's, big data, productization, and continuous integration & > deployment.
 > 
 > ●	**Software Engineering** — Served as a data scientist on remote development teams via Slack, Zoom, Notion, and Trello alongside UX designers, web developers, and iOS developers to bring projects to fruition.
@@ -103,8 +103,8 @@
 > 
 > ●	**Computer Science** — Learned first-hand about how various data structures (hash tables, graphs, BST’s, etc.) can optimize runtime complexity, classic algorithmic paradigms, and computer architecture.
 > 
-### Computer Science & Mathematics, August 2011 – December 2012
-#### Georgia Southern University, Statesboro, GA
+> ### Computer Science & Mathematics, August 2011 – December 2012
+> #### Georgia Southern University, Statesboro, GA
 > ●	Calculus I, Calculus II, Calculus III, Statistics, Data Structures, Programming Principles I, Programming Principles II, Discrete Mathematics, Ethics of Computers in Society
 > 
 
