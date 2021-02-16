@@ -5,7 +5,7 @@
 
 > # 👤 Ryan Zernach
 > # ✉️ Ryan@Zernach.com
-> # 🤖 Data Science Software Engineer
+> # 🤖 Software Engineer / Data Scientist
 > # 🇺🇸 Remote, Miami Beach, Florida, United States
 > 
 > [<img src="https://ryan.zernach.com/wp-content/uploads/2020/04/Ryan_Zernach_com_Button.png" alt="alt text" width="260" height="79">](https://ryan.zernach.com)
