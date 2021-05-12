@@ -57,11 +57,11 @@
 
 ### Links to Additional Details in Project Titles
 
-> [ADP Gym Mobile iOS/Android App](https://ryan.zernach.com/client-customer-management-manager-organizer-mobile-iphone-ios-android-app-tool-for-gym-trainers-training-club/) — Used for Gym Trainers to to Track their Member’s Sessions/Payments
+> ## [ADP Gym Mobile iOS/Android App](https://ryan.zernach.com/client-customer-management-manager-organizer-mobile-iphone-ios-android-app-tool-for-gym-trainers-training-club/) — Used for Gym Trainers to to Track their Member’s Sessions/Payments
 > * Listened to client, and then designed and developed the cloud infrastructure for this project
 > * Designed and developed this Typescript React Native Expo mobile app in nine weeks (part-time)
 > * Custom-built a companion Python Flask web app for gym members to securely pay their trainers
-
+> 
 > ## [Better Reads](https://ryan.zernach.com/portfolio/readrr-a-platform-to-discover-track-and-share-new-books/) — A Platform for Readers to Track, Share, & Discover New Books
 > 
 > * Used Agile & Scrum methodologies to iteratively deploy Natural Language Processing (NLP) models
