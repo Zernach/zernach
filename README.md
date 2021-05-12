@@ -57,30 +57,30 @@
 
 ### Links to Additional Details in Project Titles
 
-> ## [ADP Gym Mobile iOS/Android App](https://ryan.zernach.com/client-customer-management-manager-organizer-mobile-iphone-ios-android-app-tool-for-gym-trainers-training-club/) — Used for Gym Trainers to to Track their Member’s Sessions/Payments
+> ### [ADP Gym Mobile iOS/Android App](https://ryan.zernach.com/client-customer-management-manager-organizer-mobile-iphone-ios-android-app-tool-for-gym-trainers-training-club/) — Used for Gym Trainers to to Track their Member’s Sessions/Payments
 > * Listened to client, and then designed and developed the cloud infrastructure for this project
 > * Designed and developed this Typescript React Native Expo mobile app in nine weeks (part-time)
 > * Custom-built a companion Python Flask web app for gym members to securely pay their trainers
 > 
-> ## [Better Reads](https://ryan.zernach.com/portfolio/readrr-a-platform-to-discover-track-and-share-new-books/) — A Platform for Readers to Track, Share, & Discover New Books
+> ### [Better Reads](https://ryan.zernach.com/portfolio/readrr-a-platform-to-discover-track-and-share-new-books/) — A Platform for Readers to Track, Share, & Discover New Books
 > 
 > * Used Agile & Scrum methodologies to iteratively deploy Natural Language Processing (NLP) models
 > * Practiced CI/CD via blue/green RESTful Flask microservices on AWS EB to facilitate JSON post requests
 > * Launched and managed a PostgreSQL instance on AWS RDS to store millions of GoogleBooks data
 > 
-> ## [Flight Prices](https://ryan.zernach.com/portfolio/airline-price-predictor-how-are-flight-prices-calculated/) — Airline Pricing Analysis & Interactive Pricing User-Interface
+> ### [Flight Prices](https://ryan.zernach.com/portfolio/airline-price-predictor-how-are-flight-prices-calculated/) — Airline Pricing Analysis & Interactive Pricing User-Interface
 > 
 > * Built front-end user interface with Flask for user to interact w/ a predictive machine learning model
 > * Tediously gathered 27M rows of data, wrangled/cleaned to 9M, uploaded data to Kaggle
 > * As a data analyst, I generated statistical analyses, distribution charts, and business intelligence insights
 > 
-> ## [Brain Power](https://ryan.zernach.com/portfolio/brainpower-the-future-of-communicating-with-technology/) — Using Machine Learning & an EEG Device to Control Technology
+> ### [Brain Power](https://ryan.zernach.com/portfolio/brainpower-the-future-of-communicating-with-technology/) — Using Machine Learning & an EEG Device to Control Technology
 > 
 > * Built an application for the user to control light switches & thermostats with their brain
 > * Collected data from an EEG device and used Scikit-Learn to train a predictive model
 > * Deployed back-end Python get request API w/ Flask: communicate w/ EEG device, detect brain patterns
 > 
-> ## [Spotify Music](https://ryan.zernach.com/portfolio/spotify-song-suggester-which-songs-are-most-similar-to-your-favorites/) — Recommends New Music Based on Your Favorite Songs
+> ### [Spotify Music](https://ryan.zernach.com/portfolio/spotify-song-suggester-which-songs-are-most-similar-to-your-favorites/) — Recommends New Music Based on Your Favorite Songs
 > 
 > * Connected with Spotify’s API to harvest data (and metadata) about the songs in their database
 > * Built back-end Python API’s (get and post requests) to return predicted songs data to front-end
