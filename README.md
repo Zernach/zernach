@@ -57,6 +57,11 @@
 
 ### Links to Additional Details in Project Titles
 
+> [ADP Gym Mobile iOS/Android App](https://ryan.zernach.com/client-customer-management-manager-organizer-mobile-iphone-ios-android-app-tool-for-gym-trainers-training-club/) — Used for Gym Trainers to to Track their Member’s Sessions/Payments
+> * Listened to client, and then designed and developed the cloud infrastructure for this project
+> * Designed and developed this Typescript React Native Expo mobile app in nine weeks (part-time)
+> * Custom-built a companion Python Flask web app for gym members to securely pay their trainers
+
 > ## [Better Reads](https://ryan.zernach.com/portfolio/readrr-a-platform-to-discover-track-and-share-new-books/) — A Platform for Readers to Track, Share, & Discover New Books
 > 
 > * Used Agile & Scrum methodologies to iteratively deploy Natural Language Processing (NLP) models
@@ -79,11 +84,6 @@
 > 
 > * Connected with Spotify’s API to harvest data (and metadata) about the songs in their database
 > * Built back-end Python API’s (get and post requests) to return predicted songs data to front-end
-> 
-> ## [Global Glaciers](https://ryan.zernach.com/portfolio/global-glaciers-where-on-earth-are-they-located/) —Geographic Visualizations of the Locations of Earth’s Glaciers
-> 
-> * Data exploration, story-telling with data, and unique data visualizations
-> * Combined data science with visual communication, moving GIF files, and graphic design
 
 *****
 *****
@@ -130,7 +130,7 @@
 > 
 > 
 > ### ● [Vanderbilt University](https://linkedin.com/in/zernach)
-> Teaching Assistant: Data Visualizations, Remote, September 2020 – Present
+> Teaching Assistant: Data Visualizations, Remote, September 2020 – March 2021
 > 
 > 
 > ### ● [instaSod.com](https://instasod.com), [CustomizedChristmasLights.com](https://customizedchristmaslights.com)
