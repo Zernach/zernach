@@ -1,3 +1,5 @@
+# NOTE: All of my React Native mobile app projects are private repositories.
+
 ![Alt text](https://ryan.zernach.com/wp-content/uploads/2019/10/project_20190907_181208-e1583159691592.png)
 
 *****
