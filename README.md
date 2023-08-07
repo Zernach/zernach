@@ -40,7 +40,7 @@
 > 
 > ### ● [Archlife Industries](https://archlife.org/)
 > Lead Mobile & Web Engineer • Freelance Contracts • Remote • November 2019 - Present
-> * Designed, developed, and published three iOS/Android social networks
+> * Designed, developed, and published four iOS/Android social networks
 > * Created a fitness iOS/Android app for managing gym sessions and making payments
 > * Refined an iPad React Native app to improve the map’s performance and fix bugs
 > * Built websites for clients and taught them about long-term website maintenance
