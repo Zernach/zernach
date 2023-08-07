@@ -39,7 +39,7 @@
 
 > 
 > ### ● [Archlife Industries](https://archlife.org/)
-> Lead Mobile & Web Engineer • Freelance Contracts • Remote • February 2020 - Present
+> Lead Mobile & Web Engineer • Freelance Contracts • Remote • November 2019 - Present
 > * Designed, developed, and published three iOS/Android social networks
 > * Created a fitness iOS/Android app for managing gym sessions and making payments
 > * Refined an iPad React Native app to improve the map’s performance and fix bugs
@@ -47,7 +47,8 @@
 > 
 > ### ● [Origami Risk](https://origamirisk.com/)
 > Lead Mobile & Web Engineer • Full-Time • Remote • June 2023 — August 2023
-> * Made improvements to the codebase & documentation for a conversion from an old, unsupported mobile app language to React Native with Expo for both iOS/Android
+> Made improvements to the codebase & documentation for a conversion from an old, unsupported mobile app language to React Native with Expo for both iOS/Android
+> Hired as their lead, in-house Mobile Engineer, but I resigned after 5 weeks because my employer would not allow me to live outside of the United States for more than a few weeks
 > 
 > ### ● [Demosphere](https://demosphere.com/)
 > Lead React Native Mobile App Developer • Full-Time • Remote • March 2022 - May 2023
