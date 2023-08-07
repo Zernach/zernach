@@ -37,8 +37,20 @@
 *****
 *****
 
+> 
+> ### ● [Archlife Industries](https://archlife.org/)
+> Lead Mobile & Web Engineer • Freelance Contracts • Remote • February 2020 - Present
+> * Designed, developed, and published three iOS/Android social networks
+> * Created a fitness iOS/Android app for managing gym sessions and making payments
+> * Refined an iPad React Native app to improve the map’s performance and fix bugs
+> * Built websites for clients and taught them about long-term website maintenance
+> 
+> ### ● [Origami Risk](https://origamirisk.com/)
+> Lead Mobile & Web Engineer • Full-Time • Remote • June 2023 — August 2023
+> * Made improvements to the codebase & documentation for a conversion from an old, unsupported mobile app language to React Native with Expo for both iOS/Android
+> 
 > ### ● [Demosphere](https://demosphere.com/)
-> Lead React Native Mobile App Developer • Full-Time • Remote • March 2022 - May 2023 • 1 year, 2 months
+> Lead React Native Mobile App Developer • Full-Time • Remote • March 2022 - May 2023
 > * Re-engineered the app’s architecture using CLI generators
 > * Oversaw app’s design, development, testing, and publishing
 > * Integrated group chat features, push notifications, & calendar sync
@@ -55,7 +67,7 @@
 > * Version 2.0 release date is June 2023
 > 
 > ### ● [Finequities](https://finequities.com/)
-> React Native Mobile App Developer & Back-End API's Developer • Full-Time Contract • Remote • February 2021 - March 2022 • 1 year, 2 months
+> React Native Mobile App Developer & Back-End API's Developer • Full-Time Contract • Remote • February 2021 - March 2022
 > * Managed front-end, custom back-end cloud functions, and authentication endpoints
 > * Integrated various APIs, including: bank accounts, stocks, and cryptocurrencies
 > * Wrote the data visualizations logic for viewing the performance of stocks & crypto
@@ -63,20 +75,13 @@
 > * Constructed core functionality: copy portfolio, trending investors, and popular stocks 
 > * Custom-built a companion admin web dashboard to monitor the mobile app’s performance
 > 
-> ### ● [Archlife Industries](https://archlife.org/)
-> React & React Native Developer • Freelance Contracts • Remote • February 2020 - March 2022 • 2 years, 2 months
-> * Designed, developed, and published three iOS/Android social networks
-> * Created a fitness iOS/Android app for managing gym sessions and making payments
-> * Refined an iPad React Native app to improve the map’s performance and fix bugs
-> * Built websites for clients and taught them about long-term website maintenance
-> 
 > ### ● [EdX / Trilogy Education](https://www.trilogyed.com/)
-> Data Science Tutor for University Students • Part-Time • Remote • October 2019 - February 2021 • 1 year, 5 months
+> Data Science Tutor for University Students • Part-Time • Remote • October 2019 - February 2021
 > * Taught over 900 college students JavaScript, HTML, CSS, Python, dashboards, databases, API’s, & machine learning
 > * Managed a busy schedule of remotely teaching 30+ students per week for ~60 minutes per lesson
 > 
 > ### ● [Vanderbilt University](https://linkedin.com/in/zernach)
-> Teaching Assistant: Data Visualizations • Part-Time • Remote • October 2019 - February 2021 • 6 months
+> Teaching Assistant: Data Visualizations • Part-Time • Remote • October 2019 - February 2021
 > * I was remotely contracted for six months to assist a group of (30) Vanderbilt University students through an intense, 6-month bootcamp-style curriculum of learning how to build websites, dashboards, data visualizations, databases, & machine learning models.
 
  
