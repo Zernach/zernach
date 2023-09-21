@@ -47,8 +47,8 @@
 > 
 > ### ● [Origami Risk](https://origamirisk.com/)
 > Lead Mobile & Web Engineer • Full-Time • Remote • June 2023 — August 2023
-> Made improvements to the codebase & documentation for a conversion from an old, unsupported mobile app language to React Native with Expo for both iOS/Android
-> Hired as their lead, in-house Mobile Engineer, but I resigned after 5 weeks because my employer would not allow me to live outside of the United States for more than a few weeks
+> * Made improvements to the codebase & documentation for a conversion from an old, unsupported mobile app language to React Native with Expo for both iOS/Android
+> * Hired as their lead, in-house Mobile Engineer, but I resigned after 5 weeks because my employer would not allow me to live outside of the United States for more than a few weeks
 > 
 > ### ● [Demosphere](https://demosphere.com/)
 > Lead React Native Mobile App Developer • Full-Time • Remote • March 2022 - May 2023
