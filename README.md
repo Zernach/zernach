@@ -13,7 +13,7 @@
 *****
 *****
 
-> ### Quickly Learns New Tools & Techniques
+> ### Tech Stack
 > 
 
 > * AI & Machine Learning Infrastructure
