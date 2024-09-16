@@ -1,6 +1,6 @@
 > ## 👤 Ryan Zernach
 > ## ✉️ Ryan@Zernach.com
-> ## 🤖 Full-Stack Mobile App Developer
+> ## 🤖 AI Infrastructure & Mobile App Development
 > ## 🇺🇸 Remote, Miami Beach, Florida, United States
 > [<img style="margin-top: 20px;" src="https://raw.githubusercontent.com/Zernach/zernach.github.io/main/images/email/Ryan_Zernach_com_Button.png" alt="alt text" width="260" height="79">](https://ryan.zernach.com)
 > [<img src="https://github.com/Zernach/zernach.github.io/blob/main/images/email/Ryan_Zernach_Linkedin_Profile.png?raw=true" alt="alt text" width="260" height="79">](https://linkedin.com/in/zernach)
@@ -14,22 +14,22 @@
 *****
 
 > ### Quickly Learns New Tools & Techniques
+> 
+
+> * AI & Machine Learning Infrastructure
+> * Back-End Engineering / WebSockets
+> * AWS / Google Cloud / Firebase / Azure
+> * GraphQL, SQL, NoSQL Databases
 > * React Native Mobile Apps (iOS & Android)
 > * TypeScript / React Web / HTML / CSS
-> * React Native CLI / Expo CLI
 > * XCode / Android Studio
-> * Back-End API’s & Endpoints
-> * GraphQL, SQL, NoSQL Databases
-> * Python & Machine Learning
-> * AWS / Google Cloud / Firebase / Azure
-> * Git Version Control / CI / CD / FastLane
+> * Github Actions / CI CD / ETL Protocols
 > * Custom CLI Generators & Bash Scripts
 > * NodeJS / NextJS /  JavaScript / ES6+
 > * Dashboards & Data Visualizations
 > * Unit Tests & Integration Tests
 > * Webscraping Datasets
-> * and more...
-
+> * Fluent in Python
 
 *****
 *****
