@@ -13,9 +13,6 @@
 *****
 *****
 
-> ### Tech Stack
-> 
-
 > * AI & Machine Learning Infrastructure
 > * Back-End Engineering / WebSockets
 > * AWS / Google Cloud / Firebase / Azure
