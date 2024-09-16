@@ -9,7 +9,7 @@
 
 *****
 *****
-# MY MOST VALUABLE TECH STACK
+## 💻 TECH STACK
 *****
 *****
 
@@ -30,7 +30,7 @@
 
 *****
 *****
-# EXPERIENCE
+## 🚀 EXPERIENCE
 *****
 *****
 
@@ -85,7 +85,7 @@
  
 *****
 *****
-# EDUCATION
+## 🎓 EDUCATION
 *****
 *****
 
@@ -100,7 +100,7 @@
 
 *****
 *****
-# CERTIFICATIONS
+## 🎖️ CERTIFICATIONS
 *****
 *****
 
@@ -113,7 +113,7 @@
  
 *****
 *****
-# PERSONAL PROJECTS [(View Portfolio Site)](https://ryan.zernach.com/portfolio/)
+## 💼 PERSONAL PROJECTS [(View Portfolio Site)](https://ryan.zernach.com/portfolio/)
 *****
 *****
 
