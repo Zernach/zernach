@@ -13,7 +13,7 @@
 *****
 *****
 
-> * AI & Machine Learning Infrastructure
+> * AI / LLMs / Machine Learning Infrastructure
 > * Back-End Engineering / WebSockets
 > * AWS / Google Cloud / Firebase / Azure
 > * GraphQL, SQL, NoSQL Databases
@@ -28,68 +28,14 @@
 > * Webscraping Datasets
 > * Fluent in Python
 
-*****
-*****
-## 🚀 EXPERIENCE
-*****
-*****
 
-> 
-> ### ● [Archlife Industries](https://archlife.org/)
-> Lead Mobile & Web Engineer • Freelance Contracts • Remote • November 2019 - Present
-> * Designed, developed, and published four iOS/Android social networks
-> * Created a fitness iOS/Android app for managing gym sessions and making payments
-> * Refined an iPad React Native app to improve the map’s performance and fix bugs
-> * Built websites for clients and taught them about long-term website maintenance
-> 
-> ### ● [Origami Risk](https://origamirisk.com/)
-> Lead Mobile & Web Engineer • Full-Time • Remote • June 2023 — August 2023
-> * Made improvements to the codebase & documentation for a conversion from an old, unsupported mobile app language to React Native with Expo for both iOS/Android
-> * Hired as their lead, in-house Mobile Engineer, but I resigned after 5 weeks because my employer would not allow me to live outside of the United States for more than a few weeks
-> 
-> ### ● [Demosphere](https://demosphere.com/)
-> Lead React Native Mobile App Developer • Full-Time • Remote • March 2022 - May 2023
-> * Re-engineered the app’s architecture using CLI generators
-> * Oversaw app’s design, development, testing, and publishing
-> * Integrated group chat features, push notifications, & calendar sync
-> * Overhauled the UI/UX, performance, and core functionality of the app
-> * Generated reusable hooks, scripts, components, & screens
-> * Led and mentored a junior React Native team
-> * Decreased the app’s overall loading time by 90%
-> * Improved efficiency by reducing number of API calls 
-> * Transitioned the codebase from Javascript to Typescript
-> * Re-wrote npm/yarn packages using raw React Native to slim down dependencies
-> * Published updates to the Apple and Google app stores
-> * Modernized and maintained newest React Native & Expo versions
-> * Evaluated Google Crashlytics to further improve stability & performance
-> * Version 2.0 release date is June 2023
-> 
-> ### ● [Finequities](https://finequities.com/)
-> React Native Mobile App Developer & Back-End API's Developer • Full-Time Contract • Remote • February 2021 - March 2022
-> * Managed front-end, custom back-end cloud functions, and authentication endpoints
-> * Integrated various APIs, including: bank accounts, stocks, and cryptocurrencies
-> * Wrote the data visualizations logic for viewing the performance of stocks & crypto
-> * Built social network features: chat, user profile, posts, likes, emojis, and comments 
-> * Constructed core functionality: copy portfolio, trending investors, and popular stocks 
-> * Custom-built a companion admin web dashboard to monitor the mobile app’s performance
-> 
-> ### ● [EdX / Trilogy Education](https://www.trilogyed.com/)
-> Data Science Tutor for University Students • Part-Time • Remote • October 2019 - February 2021
-> * Taught over 900 college students JavaScript, HTML, CSS, Python, dashboards, databases, API’s, & machine learning
-> * Managed a busy schedule of remotely teaching 30+ students per week for ~60 minutes per lesson
-> 
-> ### ● [Vanderbilt University](https://linkedin.com/in/zernach)
-> Teaching Assistant: Data Visualizations • Part-Time • Remote • October 2019 - February 2021
-> * I was remotely contracted for six months to assist a group of (30) Vanderbilt University students through an intense, 6-month bootcamp-style curriculum of learning how to build websites, dashboards, data visualizations, databases, & machine learning models.
-
- 
 *****
 *****
 ## 🎓 EDUCATION
 *****
 *****
 
-> ### Data Science Software Engineering
+> ### Data Science Software Engineering, Machine Learning
 > #### Lambda School • Remote • San Francisco, CA • August 2019 - July 2020
 > * Productionizing Machine Learning Models, Python, HTML, Data Engineering, SQL, NoSQL, Back-End API’s, Data Visualizations, Natural-Language Processing (NLP) Models, Neural Networks, Statistical Analysis, Classic Algorithmic Paradigms, Computer Vision, Data Structures (ie: hash tables, graphs, BST’s, etc.)
 > 
@@ -110,45 +56,3 @@
 > * [AWS Cloud Practitioner](https://ryan.zernach.com/aws-certified-cloud-practitioner-study-guide/), June 2020
 > * [Y Combinator Startup School](https://www.startupschool.org/), March 2020
 
- 
-*****
-*****
-## 💼 PERSONAL PROJECTS [(View Portfolio Site)](https://ryan.zernach.com/portfolio/)
-*****
-*****
-
-> ### [STEM Tech Network](https://stemtechnetwork.com) — iOS/Android Social Learning Network for Future-Focused STEM-related Topics
-> * Built my own idea in my free-time as a full-stack, solo, unicorn developer (everything front-end to back-end)
-> * Integrated with AWS database & Hasura GraphQL endpoint for access to live websocket connection
-> * Hosted custom API’s on Netlify and connected with Google Firebase to store images/videos and user auth
-> * Implemented Over-the-Air (OTA) Updates to instantly deliver bug fixes and improvements to users
-> * Utilized custom CLI templating to generate exceptionally organized Typescript components & screens
-> 
-> ### [Marriage DAO](https://github.com/Zernach/marriage-dao-mobile) — iOS/Android Blockchain React Native App Developed at the Miami Hack Week 2023 Hackathon
-> * Built-in @WalletConnect for users to be able to login to the mobile app using one of dozens of web3 wallet providers
-> * Leveraged API for users to create blockchain marriage contracts on the Ethereum/Polygon Blockchain network
-> * As part of the hackathon, we had five days to complete this project, and we also created a React website
-> 
-> ### [Landscape Supply App](https://landscapesupply.app/) — iOS/Android App & Online Web Dashboard to Buy/Sell Landscape Supplies
-> * For 3-months part-time, I wrote the iOS/Android app in React Native & built the web dashboard
-> * Used Python/Flask & HTML/JS/CSS to build the web dashboard and back-end api's
-> * Hosted the cloud infrastructure & authentication for this project on the Google Cloud Platform
-> 
-> ### [Better Reads App](https://ryan.zernach.com/portfolio/readrr-a-platform-to-discover-track-and-share-new-books/) — iOS App w/ Machine Learning for Readers to Track, Share, & Discover New Books
-> * Used Agile & Scrum methodologies to iteratively deploy Natural Language Processing (NLP) models
-> * Practiced CI/CD via blue/green RESTful Flask microservices on AWS EB to facilitate JSON post requests
-> * Launched & managed a PostgreSQL instance on AWS RDS to store millions of GoogleBooks data
-> 
-> ### [Flight Prices](https://ryan.zernach.com/portfolio/airline-price-predictor-how-are-flight-prices-calculated/) — Airline Pricing Analysis & Interactive Pricing User-Interface
-> * Built front-end user interface with Flask for user to interact w/ a predictive machine learning model
-> * Tediously gathered 27M rows of data, wrangled/cleaned to 9M, uploaded data to Kaggle
-> * As a data analyst, I generated statistical analyses, distribution charts, and business intelligence insights
-> 
-> ### [Brain Power](https://ryan.zernach.com/portfolio/brainpower-the-future-of-communicating-with-technology/) — Using Machine Learning & an EEG Device to Control Technology
-> * Built an application for the user to control light switches & thermostats with their brain
-> * Collected data from an EEG device and used Scikit-Learn to train a predictive model
-> * Deployed back-end Python get request API w/ Flask: communicate w/ EEG device, detect brain patterns
-> 
-> ### [Spotify Music](https://ryan.zernach.com/portfolio/spotify-song-suggester-which-songs-are-most-similar-to-your-favorites/) — Recommends New Music Based on Your Favorite Songs
-> * Connected with Spotify’s API to harvest data (and metadata) about the songs in their database
-> * Built back-end Python recommendation engine and API’s (get & post requests) to return predicted songs data to front-end
