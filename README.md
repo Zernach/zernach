@@ -15,10 +15,10 @@
 *****
 
 > * AI / LLMs / Machine Learning Infrastructure
+> * React Native Mobile Apps (iOS & Android)
 > * Back-End Engineering / WebSockets
 > * AWS / Google Cloud / Firebase / Azure
 > * GraphQL, SQL, NoSQL Databases
-> * React Native Mobile Apps (iOS & Android)
 > * TypeScript / React Web / HTML / CSS
 > * XCode / Android Studio
 > * Github Actions / CI CD / ETL Protocols
