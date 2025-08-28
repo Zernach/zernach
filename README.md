@@ -14,8 +14,8 @@
 
 I'm Ryan, an AI-savvy team member & leader who calmly ships production-grade
 software. I build agentic workflows supported by schema-validated outputs and
-lightweight evals. I measure impact in **hours saved, latency, accuracy, $/task,
-and $/quality**.
+lightweight evals. I measure impact in **hours saved, latency, accuracy, cost per task,
+and cost per quality**.
 
 I’ve deployed both front-end apps and back-end infrastructure at every level of
 production environments:
