@@ -1,7 +1,7 @@
 # 👤 [Ryan Zernach](https://ryan.zernach.com)
 ## ⚙️ [Archlife LLC](https://archlife.org)
 
-**🏛️ AI Infrastructure**
+**🏛️ AI Solutions Engineering**
 
 **🤖 MLOps / LLMOps**
 
