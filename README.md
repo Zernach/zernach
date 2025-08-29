@@ -1,11 +1,12 @@
 # 👤 [Ryan Zernach](https://ryan.zernach.com)
-## 🏛️ [Archlife LLC](https://archlife.org)
+## ⚙️ [Archlife LLC](https://archlife.org)
 
-**🏛️AI Infrastructure 🤖MLOps / LLMOps**
+**🏛️ AI Infrastructure**
 
-<img width="1722" height="898" alt="image" src="https://github.com/user-attachments/assets/c5c83b01-ea28-4b27-934f-917d2abcd678" />
+**🤖 MLOps / LLMOps**
 
-[<img src="https://github.com/Zernach/zernach.github.io/blob/main/images/email/Ryan_Zernach_Official_Resume.png?raw=true" alt="alt text" width="260" height="79">](https://zernach.github.io/resume/Ryan_Zernach_Resume.pdf)
+[<img width="1723" height="898" alt="Archlife LLC" src="https://github.com/user-attachments/assets/5d5b5bb8-cf2d-4dd6-a984-60d98ba01e7e">](https://ryan.zernach.com/)
+
 
 ---
 
