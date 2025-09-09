@@ -5,8 +5,7 @@
 
 **🤖 MLOps / LLMOps**
 
-[<img width="1723" height="898" alt="Archlife LLC" src="https://github.com/user-attachments/assets/5d5b5bb8-cf2d-4dd6-a984-60d98ba01e7e">](https://ryan.zernach.com/)
-
+![Uploading Screenshot 2025-09-09 at 4.18.13 PM.png…]()
 
 ---
 
