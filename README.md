@@ -5,7 +5,7 @@
 
 **🤖 MLOps / LLMOps**
 
-![Uploading Screenshot 2025-09-09 at 4.18.13 PM.png…]()
+![Screenshot 2025-09-09 at 4 18 13 PM](https://github.com/user-attachments/assets/cfb4e3ba-61f6-4798-a09a-7caee109ab2a)
 
 ---
 
