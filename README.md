@@ -1,9 +1,11 @@
 # 👤 [Ryan Zernach](https://ryan.zernach.com)
 ## ⚙️ [Archlife LLC](https://archlife.org)
 
-**🏛️ AI Solutions Engineering**
+🏛️ AI/ML Infrastructure Architect
+📱 Mobile Apps
+💬 LLMOps
+🤖 MLOps
 
-**🤖 MLOps / LLMOps**
 
 <a href="https://ryan.zernach.com/" target="_blank">
   <img src="https://github.com/user-attachments/assets/cfb4e3ba-61f6-4798-a09a-7caee109ab2a" alt="Ryan Zernach Website" />
@@ -21,9 +23,10 @@ and cost per quality**.
 I’ve deployed both front-end apps and back-end infrastructure at every level of
 production environments:
 
+- **15+ years since I wrote my first line of code**
 - **10+ years of Engineering**
 - **7+ years of Python**
-- **5+ years of TypeScript & React**
+- **6+ years of TypeScript & React Native**
 
 ---
 
@@ -32,7 +35,7 @@ production environments:
 - **LLM Ops** / Semantic Kernel / LangChain / CrewAI
 - **OpenAPI Pipelines** / MCP / Agents / Evaluations
 - **Machine Learning** / PyTorch / NLP / Fine-Tuning
-- **Dev Tools**: Cursor / Copilot / Windsurf / Continue
+- **Dev Tools**: Cursor / Claude / Codex
 - **Databases**: SQL / GraphQL / NoSQL
 - **Cloud**: Azure / AWS / GCP / Cloud / SecOps
 - **CI/CD**: GitHub Actions / FastLane
@@ -152,7 +155,8 @@ GA_ **2011 – 2012**
 - 2020: Machine Learning Pipelines
 - 2020: Mosh React Native Academy
 - 2022: Ethereum Blockchain Developer
-- 2024: NASA Hackathon Finalist (Top 1%)
+- 2024: NASA Hackathon Finalist (Top 0.1% Submissions)
+- 2025: Gauntlet AI Engineering Fellowship (Top 2% Applicants)
 
 ---
 
