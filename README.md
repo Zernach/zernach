@@ -1,165 +1,136 @@
-# 👤 [Ryan Zernach](https://ryan.zernach.com)
-## ⚙️ [Archlife LLC](https://archlife.org)
+# Ryan Zernach
 
-🏛️ AI/ML Infrastructure Architect
-📱 Mobile Apps
-💬 LLMOps
-🤖 MLOps
+**Senior Software Engineer (Full-Stack) • Ryan@Zernach.com • [Ryan.Zernach.com](https://ryan.zernach.com) • LinkedIn • Github • 100% Remote**
 
+[<img style="margin-top: 20px;" src="https://raw.githubusercontent.com/Zernach/zernach.github.io/main/images/email/Ryan_Zernach_com_Button.png" alt="alt text" width="260" height="79">](https://ryan.zernach.com)
 
-<a href="https://ryan.zernach.com/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/cfb4e3ba-61f6-4798-a09a-7caee109ab2a" alt="Ryan Zernach Website" />
-</a>
+[<img src="https://github.com/Zernach/zernach.github.io/blob/main/images/email/Ryan_Zernach_Linkedin_Profile.png?raw=true" alt="alt text" width="260" height="79">](https://linkedin.com/in/zernach)
+
+[<img src="https://github.com/Zernach/zernach.github.io/blob/main/images/email/Ryan_Zernach_Official_Resume.png?raw=true" alt="alt text" width="260" height="79">](https://zernach.github.io/resume/Ryan_Zernach_Resume.pdf)
 
 ---
 
-## Summary
+## Highlights
 
-I'm Ryan, an AI-savvy team member & leader who calmly ships production-grade
-software. I build agentic workflows supported by schema-validated outputs and
-lightweight evals. I measure impact in **hours saved, latency, accuracy, cost per task,
-and cost per quality**.
-
-I’ve deployed both front-end apps and back-end infrastructure at every level of
-production environments:
-
-- **15+ years since I wrote my first line of code**
-- **10+ years of Engineering**
-- **7+ years of Python**
-- **6+ years of TypeScript & React Native**
+- Strategic full-stack engineer with **10+ years** of experience in Mobile Apps, Agents, MLOps, Websites, DevOps, Cloud
+- Shipped front-end & back-end of **CellarChat™** chatbot to **1M+ members** and established LLM evaluation pipelines
+- Architected distributed systems for eCommerce platform, powered by agentic outbound phone calls with AI / LLM
+- Boosted mobile app ratings to **4.9★** (10k+ reviews) & lifted recurring revenue by **25%+** w/ Apple Pay subscriptions
+- Awarded **Top 10 of 10,000** international projects in the **2024 NASA Space Apps** hackathon with AI Voice Assistant
 
 ---
 
 ## Tech Stack
 
-- **LLM Ops** / Semantic Kernel / LangChain / CrewAI
-- **OpenAPI Pipelines** / MCP / Agents / Evaluations
-- **Machine Learning** / PyTorch / NLP / Fine-Tuning
-- **Dev Tools**: Cursor / Claude / Codex
-- **Databases**: SQL / GraphQL / NoSQL
-- **Cloud**: Azure / AWS / GCP / Cloud / SecOps
-- **CI/CD**: GitHub Actions / FastLane
-- **DevOps**: Docker / Kubernetes
-- **Mobile/Web**: React Native / iOS / Android / Web / Expo Router
-- **Frontend**: TypeScript / React JS / Next JS / HTML / Streamlit
-- **Payments**: Apple Pay / Subscriptions / Checkout
-- **Email**: IMAP / POP / Automations / Notifications
-- **Ops Tools**: Dashboards / CLI Tools
-- **APIs**: WebSockets / Flask / FastAPI / Express / DNS
-- **Queues**: RabbitMQ / Cron Jobs
-- **Analytics**: Marketing Analytics / Sales Engineering
-
----
-
-## Experience
-
-### AI Engineer & Solutions Architect • Archlife Industries Software (100% Remote)
-
-**2020 – Present**
-
-- Published four social networking apps and two digital marketplace platforms
-- Deployed agentic Python endpoints for merchant onboarding & inventory
-  management
-- Architected marketplace eCommerce platform with emphasis on **security,
-  scalability & analytics**
-- Built a cross between **Robinhood & Facebook** for secure stock/crypto
-  exchanges
-- Automated email marketing campaigns to attract sellers to our platform
-- Created a **fitness iOS/Android app** with trainer payments
-- Optimized an iPad React Native app (map performance + bluetooth extension)
-
----
-
-### AI Engineer & iOS/Android Engineer • CellarTracker (100% Remote, Seattle)
-
-**2023 – 2025**
-
-- Boosted new app’s ratings to **4.9 avg** with **8,000+ 5-star ratings**
-- Built both frontend & backend for **CellarChat™ LLM agent** (1M+ members)
-- Architected **OpenAPI pipeline**, **fine-tuning pipeline**, & **LLM metrics
-  evaluation**
-- Integrated **Apple Pay** into React Native app → increased revenue
-- Added recommended wines, feed posts, barcode scanning, image search
-- Engineered API for report tickets → auto-generated HTML emails
-- Built analytics tracking for user interactions
-- Rebuilt legacy app in React Native (iOS + Android support)
-- Iteratively improved **Redux store** for persistent state management
-- Created **end-to-end (e2e)** test suites
-
----
-
-### React Native Developer • Demosphere (100% Remote, Washington D.C.)
-
-**2022 – 2023**
-
-- Migrated codebase **JavaScript → TypeScript** for long-term maintainability
-- Enhanced group chat, push notifications, and calendar sync → better reviews
-- Applied Google Crashlytics to reduce crashes & improve **p95 performance**
-- Reduced computational and network loads for better efficiency
-
----
-
-### React Native Developer • FinEquities (100% Remote, Miami)
-
-**2021 – 2022**
-
-- Integrated APIs for **bank accounts, stocks, cryptocurrencies**
-- Managed frontend, backend cloud functions, & authentication
-- Built **data visualizations** for stock/crypto performance
-- Added social features: **chat, profiles, posts, likes, emojis, comments**
-- Developed portfolio copy, trending investors, & stock suggestions
-- Built an **admin dashboard** to monitor app performance
-
----
-
-### Web Developer • instaSod.com, CustomizedChristmasLights.com
-
-**2015 – 2019**
-
-- Self-marketed businesses → **$500k+ gross sales in 3 years**
-- Founded two LLCs: landscape design & professional lighting
-- Built video upload + automated PDF pricing proposals
-
----
-
-## Education
-
-**Machine Learning & Data Science (Teaching Assistant)** _Vanderbilt University,
-EdX • Remote • Nashville, TN_ **2020 – 2021**
-
-- Taught **900+ students** ML, APIs, JavaScript, HTML, Python, dashboards, &
-  databases
-- Delivered weekly lessons to **30+ students** remotely
-- Gained exposure to **hundreds of ML applications**
-
-**Data Science Software Engineering** _Lambda School (BloomTech) • Remote • San
-Francisco, CA_ **2019 – 2020**
-
-- Deployed **ML models**, Recommendation Engines, CV, NLP Pipelines
-- Built **APIs with Flask/FastAPI**, Data Engineering, SQL/NoSQL
-
-**Computer Science & Mathematics** _Georgia Southern University • Statesboro,
-GA_ **2011 – 2012**
-
-- Courses: Calculus, Statistics, R, Data Structures, Programming Principles,
-  Linear Regression, C, C++
+| Category | Technologies |
+|----------|--------------|
+| **LLMOps / RAG / MCP / Voice Agents / Evaluations** | LangChain / GenAI / OpenAPI / Semantic Kernel |
+| **ML / Data** | Machine Learning Pipelines / Computer Vision / Python / PyTorch / PySpark / ETL / TensorFlow |
+| **Cloud / DevOps** | Cloudflare / AWS / Azure / GCP / CloudOps / DevOps / Docker / Kubernetes / Terraform |
+| **Data & APIs** | Vector Databases / SQL / GraphQL / NoSQL / Git / Bash / Cursor / Claude / Orchestration |
+| **Auth & Security** | AuthN / AuthZ / OAuth / Identity / Security |
+| **Mobile** | React Native / iOS / Android / Swift / Kotlin / Expo |
+| **Frontend / Backend** | TypeScript / React / Redux / Node / Next / Streamlit / FastAPI / Express / Rust / .NET / C# / Go / Java / Ruby |
+| **Realtime / Infra** | WebSockets / Queues / RabbitMQ / Redis / WebRTC |
+| **Web3** | Blockchain / dApps / Wallets / Ethereum / Solana |
+| **Payments** | Apple Pay / Subscriptions / Stripe / IAP / Webhooks |
+| **Growth & Comms** | SEO / Marketing Automations / Campaign Attribution / IMAP / SMTP / Emails / SMS / Twilio / Push Notifications |
+| **Observability** | Systems Observability / Analytics / Admin Dashboards |
 
 ---
 
 ## Certifications
 
-- 2019: Y Combinator Startup School
-- 2019: AWS Cloud Practitioner
-- 2020: Google Cloud Developer
-- 2020: TensorFlow Developer
-- 2020: Machine Learning Pipelines
-- 2020: Mosh React Native Academy
-- 2022: Ethereum Blockchain Developer
-- 2024: NASA Hackathon Finalist (Top 0.1% Submissions)
-- 2025: Gauntlet AI Engineering Fellowship (Top 2% Applicants)
+- **2025:** Gauntlet AI Engineering Fellowship (G3)
+- **2024:** NASA Space Apps Hackathon Winner
+- **2023:** GenAI with Large Language Models
+- **2022:** Ethereum Blockchain Developer
+- **2021:** Mosh React Native Academy
+- **2020:** Machine Learning Pipelines (DataRobot)
+- **2020:** TensorFlow Computer Vision Developer
+- **2019:** Google Cloud Platform GCP Developer
+- **2019:** AWS Microservices Practitioner
+- **2019:** Y Combinator Startup School
 
 ---
 
-## Portfolio Website
+## Education
 
-[Ryan.Zernach.com](http://Ryan.Zernach.com)
+**AI Engineering Fellowship (G3)** • _Fall 2025_  
+Gauntlet AI • Remote • Austin, TX
+
+- Invested 10 weeks and 100 hours per week into intense curriculum of AI engineering bootcamp
+- Harnessed the power of RAG, multi-agent systems, OpenAPI, and MCP to build agentic automations
+- Mastered how to command agents, automate workflows, & deliver enterprise-grade software solutions
+
+**Data Science Software Bootcamp** • _2019 – 2020_  
+Lambda School • Y Combinator • Remote
+
+- Deployed Supervised/Unsupervised Machine Learning Models, Recommendation Engines
+- Computer Vision (CV) Models, Time-Series Forecasting, Natural-Language Processing (NLP) Pipelines
+- Python, SciKit-Learn, PySpark, Data Engineering, PostgreSQL Databases, Back-End APIs (Flask / FastAPI)
+
+**Computer Science & Mathematics** • _2011 – 2012_  
+Georgia Southern University • Statesboro, GA
+
+- Visual Basic, Calculus, C, C++, R, Statistics, Data Structures, Programming Principles, Linear Regression
+
+---
+
+## Experience
+
+### AI Engineer / Mobile Engineer (Full-Stack) • CellarTracker • Remote • Seattle — _2023 - 2025_
+
+- Wrote **CellarChat™** LLM chatbot for **1M+** active members using TypeScript front-end & Python back-end
+- Architected OpenAPI tool-calling pipeline, fine-tuning pipeline, LLM evaluations, & observability systems
+- Integrated intelligent ML-powered recommendations for world’s largest online database of wine reviews
+- Helped to boost app store ratings to **4.9★** average with **10,000+** verified 5-star ratings on iOS and Android
+- Embedded **Apple Pay** subscriptions in the React Native app to generate additional **25%+** recurring revenue
+- Implemented animations, barcode scanning, activity feed posts, ML recommendations, & OCR image search
+- Streamlined the Redux store for fast, efficient, and persistent global state management between app sessions
+- Rebuilt the React Native app’s analytics implementations for tracking critical user interactions and app behavior
+
+### Mobile Engineer • Demosphere • Remote • Washington D.C. — _2022 - 2023_
+
+- Transitioned entire codebase from Javascript to Typescript for increased long-term maintainability
+- Implemented updates to front-end React Native according to the design team’s mockups in Figma
+- Improved computational and network efficiencies by reducing load times and runs to the database
+- Evaluated Google Crashlytics to reduce edge case crashes and improve p95 stability and performance
+- Iterated on group chat features, push notifications, and native calendar sync to improve user satisfaction
+
+### React Native Engineer (Full-Stack) • FinEquities • Remote • Miami — _2021 – 2022_
+
+- Built fintech app to compete with Robinhood by exchanging stocks/crypto & connecting bank accounts
+- Wrote the data-visualization logic for viewing and comparing the performance of different stocks/crypto
+- Built social network features, such as direct chat, user profiles, posts, likes, emojis, & threaded comments
+- Constructed core mobile app functionality, including: copy portfolio, trending investors, & suggested stocks
+- Custom-built a companion admin web dashboard to monitor mobile app performance & infrastructure health
+
+### Data Science Tutor / Teaching Assistant • edX • Vanderbilt University, UC Berkeley, +24 others — _2020 – 2021_
+
+- During pandemic, taught **900+** online college students Python, machine learning, TypeScript, websites, & databases
+- Managed busy schedule of remotely teaching **30+** university students per week in 1:1 setting (one hour per person)
+
+### React Web Developer (Full-Stack) • Georgia Hybrid Landscaping • Atlanta, Georgia — _2015 – 2019_
+
+- Converted PHP websites to React and marketed businesses to generate **$500k+** of gross sales in 3 years
+- Managed online presence for small businesses, including web analytics, Google AdSpend, & email campaigns
+- Engineered user experience of uploading videos/images, survey questions, and receiving PDF pricing proposal
+
+---
+
+## Personal Projects
+
+### Founding Full-Stack Engineer • Archlife Industries Software • Remote
+
+- Created my own personal mobile apps to solve my problems & new users sign up everyday
+- Setup custom observability dashboards for marketing, analytics, API logs, & database admin
+- Deployed agentic endpoints for facilitating merchant onboarding and inventory management
+- Automated LLMs to advertise on Reddit by reading threads and commenting on the best posts
+- Built end-to-end MLOps pipelines to enable low-latency inference and continuous model updates
+- Productionized chatbots using RAG, agentic tool-calling, voice-powered commands, & interactive maps
+
+---
+
+Thank you for reviewing my resume!
+Ready to interview me? [Let's chat.](https://ryan.zernach.com/schedule)
