@@ -2,8 +2,6 @@
 
 ## Senior Software Engineer (Full-Stack)
 
-### ⚡️Full-Stack AI 📱Mobile Apps 🏛️Infrastructure 🤖Agents 🧠MLOps 💰Payments 📡StarLink
-
 <a href="https://ryan.zernach.com/" target="_blank">
   <img src="https://github.com/user-attachments/assets/cfb4e3ba-61f6-4798-a09a-7caee109ab2a" alt="Ryan Zernach Website" />
 </a>
