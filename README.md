@@ -111,22 +111,28 @@
 Georgia Southern University • Statesboro, GA
 *2011 – 2012*
 
+* Visual Basic, Calculus, C, C++, R, Statistics, Data Structures, Programming Principles, Linear Regression
+
 **Turfgrass Management**
 University of Georgia • Athens, GA
 *2013 – 2015*
+
+* Design Principles, Science of Grass, Outdoor Business Management, Landscape Architecture
 
 **Data Science & Machine Learning Bootcamp**
 Lambda School (Y Combinator) • Remote
 *2019 – 2020*
 
-* Focus: Recommendation Systems, NLP, Computer Vision, Time Series
-* Stack: Python, Scikit-learn, PySpark, PostgreSQL, Flask, FastAPI
+* Recommendation Engines, Computer Vision (CV) Models, Time-Series Forecasting, Natural-Language Processing
+* Python, SciKit-Learn, PySpark, Data Engineering, PostgreSQL Databases, Back-End APIs (Flask / FastAPI)
 
 **AI Engineering Fellowship (G3)**
 Gauntlet AI • Remote (Austin, TX)
 *Fall 2025*
 
-* Advanced agent systems, RAG architectures, OpenAPI integrations, workflow automation
+* Mastered how to command agents, automate workflows, and 100x enterprise-grade software engineering
+* Harnessed the power of RAG, multi-agent systems, OpenAPI, and MCP to build agentic automations
+
 
 ---
 
