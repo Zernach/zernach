@@ -3,7 +3,7 @@
 ## Senior Software Engineer (Full-Stack)
 
 <a href="https://ryan.zernach.com/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/cfb4e3ba-61f6-4798-a09a-7caee109ab2a" alt="Ryan Zernach Website" />
+  <img alt="image" src="https://github.com/user-attachments/assets/12f01087-8008-4aaa-886b-2f3536faeff8" />
 </a>
 
 ---
