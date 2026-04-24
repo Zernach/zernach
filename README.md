@@ -10,7 +10,7 @@
 
 ## **HIGHLIGHTS**
 
-* Distributed systems engineer with 10+ years across AI systems, mobile platforms, MLOps, and cloud infrastructure
+* Distributed systems engineer with 10+ years across payments, AI systems, mobile platforms, MLOps, and cloud infrastructure
 * Built and launched **CellarChat™**, an LLM-powered agent serving **1M+ users** with production-grade evaluation pipelines
 * Architect scalable backend systems powering **AI-driven VoIP and eCommerce automation workflows**
 * Increased app rating to **4.9★ (10k+ reviews)** and drove **25%+ revenue growth** via subscription infrastructure
