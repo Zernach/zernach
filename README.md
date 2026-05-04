@@ -1,6 +1,6 @@
 # Ryan Zernach
 
-## Full-Stack AI/ML Infrastructure Engineer
+## Senior AI Systems Engineer
 
 <a href="https://ryan.zernach.com/" target="_blank">
   <img alt="image" src="https://github.com/user-attachments/assets/12f01087-8008-4aaa-886b-2f3536faeff8" />
