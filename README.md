@@ -1,4 +1,4 @@
-# Ryan Zernach
+# Ryan Zernach 🧬
 
 ## Senior AI Systems Engineer
 
