@@ -3,7 +3,7 @@
 ## Senior AI Systems Engineer
 
 <a href="https://ryan.zernach.com/" target="_blank">
-  <img alt="image" src="https://github.com/user-attachments/assets/12f01087-8008-4aaa-886b-2f3536faeff8" />
+  <img alt="image" src="https://github.com/user-attachments/assets/5d4bfd76-0893-43a4-81b1-f83bee35bc11" />
 </a>
 
 ---
