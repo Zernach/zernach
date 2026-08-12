@@ -2,7 +2,7 @@
 
 ## Full-Stack AI Systems Engineer
 
-### Agentic Infrastructure & Product Engineering
+### Agentic Infrastructure + Product Engineering
 
 [<em>Portfolio: </em>](<https://ryan.zernach.com>)[<strong>Ryan.Zernach.com</strong>](<https://ryan.zernach.com>)[<em> •</em>](<https://ryan.zernach.com>)<em> Email: </em><em>Ryan@Zernach.com</em>[<em> •</em>](<https://ryan.zernach.com>)[<em>LinkedIn </em>](<https://linkedin.com/in/zernach/>)<em>• </em>[<em>GitHub</em>](<https://github.com/zernach>)<em> • Remote • FinTech + Healthcare</em>
 ## HIGHLIGHTS
@@ -10,7 +10,7 @@
 - [Distributed systems engineer with 10+ years of engineering Payments, Agents, Mobile Apps, Websites, DevOps + MLOps Systems](<https://ryan.zernach.com/portfolio>)
 - [Scaled CellarChat™ tool-calling agent to 1M+ active members, complete with RLHF & CI/CD LLM evaluation scoring pipelines](<https://ryan.zernach.com/portfolio/cellartracker>)
 - [Engineered Apple Pay subscriptions to lift recurring revenue by 25%+ which lifted mobile app ratings to 4.9★ (10k+ reviews)](<https://ryan.zernach.com/portfolio/cellartracker>)
-- [Completed Gauntlet AI engineering fellowship with 2% acceptance rate and mastered the art of ](<https://ryan.zernach.com/portfolio/gauntlet-ai>)Cursor, Claude + Codex
+- [Completed Gauntlet AI engineering fellowship with 2% acceptance rate and mastered the art of ](<https://ryan.zernach.com/portfolio/gauntlet-ai>)Cursor + Claude + Codex
 - [Designed observable backend systems that support autonomous AI-powered VoIP eCommerce payment automations](<https://ryan.zernach.com/portfolio/landscape-supply>)
 - [Awarded Top 10 of 10,000 international projects in 2024 NASA Space Apps hackathon with AI Voice Assistant](<https://ryan.zernach.com/portfolio/grow-ai-voice-assistant-for-nasa-space-apps-2024-hackathon>)
 ## TECH STACK
@@ -35,7 +35,7 @@
 - Building agentic products and back-end systems across Python, Typescript, vector embeddings + OSS large-language models
 - Automated eCommerce marketplace by using MCP, Claude/ChatGPT integration, Twilio VoIP realtime voice agents + DALL-E
 - Containerized scalable Robotic Process Automation (RPA) via OpenAPI middleware, local vLLM, web scraping + Kubernetes
-- Published TranslateWallpaper, a cross-platform mobile app to make LLM-powered language-learning wallpapers images
+- Published TranslateWallpaper™ mobile app for travelers pronounce words via LLM-generated wallpaper cheatsheets
 
 ### [Senior Full-Stack AI Systems Engineer](<https://ryan.zernach.com/portfolio/cellartracker>)[ • ](<https://ryan.zernach.com/portfolio/cellartracker>)[CellarTracker](<https://ryan.zernach.com/portfolio/cellartracker>)[ • Seattle • Remote ](<https://ryan.zernach.com/portfolio/cellartracker>)[Aug 2023 - Jul 2025](<https://ryan.zernach.com/portfolio/cellartracker>)
 
@@ -50,7 +50,7 @@
 - Implemented PyTorch OCR image-to-text search, high-performance barcode scanning, and activity feed posts
 - Streamlined the Redux middleware for fast global state management and persistence between user app sessions
 - Rebuilt the React Native app’s analytics implementations for tracking critical user interactions and in-app behavior
-- Arranged A/B tests during paywall & onboarding experiences using phased rollout schedules for marketing analysis
+- Arranged A/B tests during paywall + onboarding experiences using phased rollout schedules for marketing analysis
 - Migrated 25+ year old legacy support ticket system from Active Server Pages (ASP) to TypeScript Express framework
 
 ### [Full-Stack Mobile Engineer ](<https://ryan.zernach.com/portfolio/archlife-industries>)[• ](<https://ryan.zernach.com/portfolio/cellartracker>)[Archlife Industries Software](<https://ryan.zernach.com/portfolio/archlife-industries>)[ • Miami • Remote](<https://ryan.zernach.com/portfolio/archlife-industries>)[ ](<https://ryan.zernach.com/portfolio/archlife-industries>)[Sept 2021 - Aug 2023](<https://ryan.zernach.com/portfolio/archlife-industries>)
@@ -64,7 +64,7 @@
 - Improved Ruby on Rails for push notifications, chat, & native calendar sync to improve user satisfaction
 - Remedied hardware’s bluetooth transactions in Swift telecommunications app + Python Flask app
 
-### [Data Science + Machine Learning Tutor](<https://ryan.zernach.com/portfolio/university-tutor>)[ • ](<https://ryan.zernach.com/portfolio/cellartracker>)[edX](<https://ryan.zernach.com/portfolio/university-tutor>)[ • ](<https://ryan.zernach.com/portfolio/cellartracker>)[Vanderbilt, UC Berkeley, +24 others](<https://ryan.zernach.com/portfolio/university-tutor>)[ • Remote ](<https://ryan.zernach.com/portfolio/university-tutor>)[ ](<https://ryan.zernach.com/portfolio/university-tutor>)[July 2020 – Sept 2021](<https://ryan.zernach.com/portfolio/university-tutor>)
+### [Data Science + Machine Learning Tutor](<https://ryan.zernach.com/portfolio/university-tutor>) [• ](<https://ryan.zernach.com/portfolio/cellartracker>)[edX](<https://ryan.zernach.com/portfolio/university-tutor>)[ • ](<https://ryan.zernach.com/portfolio/cellartracker>)[Vanderbilt, UC Berkeley, +24 others • Remote ](<https://ryan.zernach.com/portfolio/university-tutor>)[ ](<https://ryan.zernach.com/portfolio/university-tutor>)[July 2020 – Sept 2021](<https://ryan.zernach.com/portfolio/university-tutor>)
 
 - During pandemic, taught 900+ online college students Python, PyTorch, APIs, machine learning, TypeScript, SQL + databases
 - Managed busy schedule of remotely teaching 30+ university students per week in 1:1 setting (one hour per person)
