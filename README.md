@@ -24,7 +24,7 @@
 | Cloud Infrastructure + DevOps           | AWS, Azure, GCP, Cloudflare, Docker, GitHub Actions, Terraform, Kubernetes, CI/CD, CloudOps, Blue/Green, DNS, Networking                                                                                            |
 | Front-End + Product Engineering         | React, React Native, iOS, Android, Web, Swift, Kotlin, Flutter, Expo Router, Next.js, Redux, Streamlit, Animations, Design, User Feedback, Playwright                                                               |
 | Distributed Systems + Operations        | Queues, Redis, RabbitMQ, Analytics, Pub/Sub, Linux, Airflow, VoIP, Cron, WebRTC, Observability, OpenTelemetry, Rate Limiting, Horizontal Scaling, Machine Learning CI/CD, Event-Driven Architecture, Load Balancing |
-| Security, Identity + Compliance         | AuthN, AuthZ, OAuth, SOC 2, Identity, Role-Based Access Control, JWT, Secure Systems Design, SSO, API Security, Secrets Management                                                                                  |
+| Security, Identity + Compliance         | AuthN, AuthZ, OAuth, HIPAA, SOC 2, Identity, Role-Based Access Control, JWT, Secure Systems Design, SSO, API Security, Secrets Management                                                                           |
 | Payments, Communications + Integrations | PCI Compliance, Stripe, Apple Pay, IAP, Billing, Subscriptions, Wallets, Twilio, SMS, Push Notifications, HTTP APIs, Marketing Tech, SMTP/IMAP                                                                      |
 | Blockchain + Web3                       | Ethereum, Solana, dApps, WalletConnect, MetaMask, Polygon, Solidity, Smart Contracts, Ethers.js, Tokens, ERC-20, ERC-721                                                                                            |
 
@@ -66,7 +66,7 @@
 
 ### [Data Science + Machine Learning Tutor](<https://ryan.zernach.com/portfolio/university-tutor>) [• ](<https://ryan.zernach.com/portfolio/cellartracker>)[edX](<https://ryan.zernach.com/portfolio/university-tutor>)[ • ](<https://ryan.zernach.com/portfolio/cellartracker>)[Vanderbilt, UC Berkeley, +24 others • Remote ](<https://ryan.zernach.com/portfolio/university-tutor>)[ ](<https://ryan.zernach.com/portfolio/university-tutor>)[July 2020 – Sept 2021](<https://ryan.zernach.com/portfolio/university-tutor>)
 
-- During pandemic, taught 900+ online college students Python, PyTorch, APIs, machine learning, TypeScript, SQL + databases
+- During pandemic, taught 900+ post-grad students machine learning, Python, PyTorch, APIs,, TypeScript, SQL + databases
 - Managed busy schedule of remotely teaching 30+ university students per week in 1:1 setting (one hour per person)
 - Dozens of universities were subscribed to my employer’s curriculum and online tutoring resources for students
 
